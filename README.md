@@ -158,7 +158,7 @@ merubah status pembayaran
 - **Event Adapter: Publikasi event ke Kafka untuk status pembayaran**
 
 Untuk arsitektur saga patern
-![Alt text](https://github.com/paqihteguh2324/AnalisisStudiKasus/blob/main/img/hex.png?raw=true "Saga")
+![Alt text](https://github.com/paqihteguh2324/AnalisisStudiKasus/blob/main/img/saga.png?raw=true "Saga")
 
 untuk arsitektur hexagon
-![Alt text](Img\hex.png "Saga")
+![Alt text](https://github.com/paqihteguh2324/AnalisisStudiKasus/blob/main/img/hex.png?raw=true "hex")
